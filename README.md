@@ -1,17 +1,16 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Marcelo Antonio Pereira Marcolino and my nickname is "MarceloMarcolino"!
 
-<! --
-**MarceloMarcolino/MarceloMarcolino** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 
-Aqui estão algumas idéias para você começar:
 
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+
+
+- 🔭 Atualmente estou trabalhando com Programação de Sistemas
+- 🌱 Atualmente estou cursando Engenharia de Software
+- 👯 Estou procurando colaborar em desenvolvimento full-stack
+- 🤔 Estou procurando ajuda com 
+- 💬 Pergunte-me sobre programação
+- 📫 Como entrar em contato comigo: (11) 99422-0619 / marcelo.marcolino.dev@gmail.com
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Estou cursando minha 3ª Graduação de nível Superior
 -->
